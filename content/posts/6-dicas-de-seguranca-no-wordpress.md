@@ -2,7 +2,6 @@
 title: 6 dicas de segurança no WordPress
 date: 2017-08-12 02:41:00
 thumbnailImagePosition: left
-coverImage: img/post_security.png
 thumbnailImage: img/post_security.png
 ---
 Existe uma grande preocupação com a segurança no WordPress. Um dos argumentos de quem se coloca contra o uso da plataforma é o elevado número de vulnerabilidades divulgadas e os contínuos casos de invasão a sites construídos usando o CMS.
@@ -11,13 +10,15 @@ Existe uma grande preocupação com a segurança no WordPress. Um dos argumentos
 
 ## Segurança no WordPress
 
+![Dicas de segurança no WordPress](../../img/post_security.png "Segurança no WordPress")
+
 Um dos pontos que devem ser considerados é a grande utilização do WordPress atualmente. Usando a ferramenta [Web Technology Trends](https://trends.builtwith.com/), disponibilizada pelo Built With, verificamos que no mundo 30% dos websites usando algum CMS utilizam a plataforma.
 
-![Percentual de utilização do WordPress no mundo](assets/img/utilizacao_wp_mundo.png "Utilização do WordPress no mundo (fonte: Built With em 26/07/2017)")
+![Percentual de utilização do WordPress no mundo](../../img/utilizacao_wp_mundo.png "Utilização do WordPress no mundo (fonte: Built With em 26/07/2017)")
 
 No Brasil este número é ainda maior, chegando a 34% os sites que utilizam o WordPress como plataforma de CMS, sem contar a versão 4.7 e anteriores.
 
-![Gráfico com percentual de utilização do WP no Brasil](assets/img/utilizacao_wp_brasil.png "Utilização do WordPress no Brasil (fonte: Built With em 26/07/2017)")
+![Gráfico com percentual de utilização do WP no Brasil](../../img/utilizacao_wp_brasil.png "Utilização do WordPress no Brasil (fonte: Built With em 26/07/2017)")
 
 Quanto mais sites utilizando a plataforma, maior o número de alvos de ataques e, por questões de probabilidade, maior a quantidade de casos de invasão.
 
@@ -35,7 +36,7 @@ Uma das falhas comuns, não só dos iniciantes, mas também de quem já usa o CM
 
 Apesar da plataforma facilitar bastante o processo de atualização, disponibilizando uma opção de menu específica para isso, muita gente desconsidera as recomendações ou não se preocupa com o impacto que o uso da estrutura desatualizada pode trazer.
 
-![Atualizações no menu de opções](assets/img/atualizacoes.png "Opção Atualizações no menu WordPress")
+![Atualizações no menu de opções](../../img/atualizacoes.png "Opção Atualizações no menu WordPress")
 
 O [WordPress tem um roadmap](https://wordpress.org/about/roadmap/) bem definido, justamente para poder ajustar todas as vulnerabilidades identificadas pela comunidade. Sempre que uma nova versão da plataforma é disponibilizada a opção Atualizações no menu administrativo exibe um badge. O processo de atualização é bem simples, bastando que o usuário faça um backup antes de inicar para evitar problemas caso ocorra falhas no processo.
 
@@ -49,7 +50,7 @@ Como vimos no item anterior, a atualização constante de plugins e temas també
 * Escolher sempre plugins e temas disponibilizados nos diretórios do próprio WordPress, o que é uma primeira garantia de que não contém código malicioso.
 * Ter atenção com a quantidade de sites utilizando o plugin ou tema, a avaliação da comunidade e a data de última atualização.
 
-![Exemplo de plugin do WordPress](assets/img/plugin-contact-7.png "Características do plugin Contact Form 7")
+![Exemplo de plugin do WordPress](../../img/plugin-contact-7.png "Características do plugin Contact Form 7")
 
 Em detaque na imagem acima as características principais do plugin Contact Form 7, um dos melhores plugins de criação de formulários. O plugin tem mais de 1 milhão de instalações ativas, o que indica que tem uma comunidade envolvida, identificando e ajustantando eventuais vulnerabilidades, possui uma classificação de 4 estrelas e meia, com mais de 1.300 avaliações, o que demonstra a sua qualidade e teve a última atualização a 1 dia (consulta em 26/07/2017), que demonstra ajustes e evolução constante.
 
@@ -63,7 +64,7 @@ Além disso, é importante usar usuários com perfís diferentes de Administrado
 
 Também podem ser feitas algumas configurações para diminuir os riscos relacionados com os usuários do WordPress, como desabilitar a opção de que qualquer pessoa pode se registrar no site na opção Configurações -> Geral do menu administrativo (ver imagem abaixo).
 
-![Opções de configuração de usuários](assets/img/registrar.png "Configuração de que qualquer pessoa pode se registrar")
+![Opções de configuração de usuários](../../img/registrar.png "Configuração de que qualquer pessoa pode se registrar")
 
 ### Realize backup do WordPress
 
@@ -91,4 +92,4 @@ Um que foi testado pelo Presença Online .NET é o Meta Generator and Version In
 
 Veja o vídeo no YouTube com mais detalhes das 6 dicas de segurança no WordPress:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c2h6a-qUMLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube c2h6a-qUMLk >}}

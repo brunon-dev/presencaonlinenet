@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Presença Online .NET'
 theme = "hugo-tranquilpeak-theme"
 
-
 [params]
 thumbnailImage = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
