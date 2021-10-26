@@ -1,6 +1,5 @@
 ---
 title: WordPress Multilíngue com Polylang
-description: 
 date: 2018-05-26 09:33:44
 thumbnailImagePosition: left
 thumbnailImage: img/post-wp-multilingue.png
