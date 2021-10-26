@@ -1,11 +1,6 @@
 ---
 title: WhatsApp no WordPress
-description: Que tal ter um link no seu site WordPress que direcione diretamente
-  para o seu WhatsApp?
 date: 2018-07-23 05:42:27
-image: ../../img/whatsapp-no-wordpress.png
-
-
 thumbnailImagePosition: left
 thumbnailImage: img/whatsapp-no-wordpress.png
 ---
