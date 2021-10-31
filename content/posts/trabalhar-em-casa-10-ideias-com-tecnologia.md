@@ -3,6 +3,10 @@ title: "Trabalhar em casa: 10 idéias com tecnologia"
 date: 2018-08-08 12:11:41
 thumbnailImagePosition: left
 thumbnailImage: img/trabalhar-em-casa-10-ideias.png
+categories:
+- Miscelânia
+tags:
+- Empreendedorismo
 ---
 
 Que tal conhecer 10 ideias para começar a trabalhar de casa usando a tecnologia como aliada neste processo? Neste post fazemos uma primeira apresentação dessas ideias.

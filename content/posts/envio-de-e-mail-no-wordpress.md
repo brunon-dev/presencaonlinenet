@@ -3,6 +3,11 @@ title: Envio de e-mail no WordPress
 date: 2017-10-13T05:14:00.000Z
 thumbnailImagePosition: left
 thumbnailImage: img/post_mail.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 Entenda como funciona e como configurar um plugin para envio de e-mails no WordPress de forma simples e fácil, usando configurações do SMTP do Gmail.
 

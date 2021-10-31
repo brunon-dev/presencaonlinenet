@@ -3,6 +3,11 @@ title: Agendamento de clientes pelo WordPress
 date: 2018-05-06 05:41:49
 thumbnailImagePosition: left
 thumbnailImage: img/agendamento.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 Já imaginou ter um sistema de agendamento completo no seu site WordPress? No post abaixo apresentamos um plugin que ajuda a fazer isso de forma simples.
 

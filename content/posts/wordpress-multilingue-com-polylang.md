@@ -3,6 +3,11 @@ title: WordPress Multilíngue com Polylang
 date: 2018-05-26 09:33:44
 thumbnailImagePosition: left
 thumbnailImage: img/post-wp-multilingue.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 
 Polylang é um plugin que habilita a configuração do seu WordPress para trabalhar de forma multilíngue, permitindo que sejam incluídos textos para a mesma página/post, mas em diferentes idiomas.

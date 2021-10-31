@@ -3,6 +3,11 @@ title: Posicionamento em pesquisa Google usando SEO
 date: 2018-08-24T01:53:48.000Z
 thumbnailImagePosition: left
 thumbnailImage: img/posicionamento-em-pesquisa-google.png
+categories:
+- Marketing Digital
+tags:
+- Dicas WP
+- Plugins
 ---
 
 Veja algumas dicas interessantes sobre escolha da palavra chave, análise da concorrência e como escrever o texto para melhorar o SEO do site.

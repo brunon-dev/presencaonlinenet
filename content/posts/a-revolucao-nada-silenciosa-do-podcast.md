@@ -3,6 +3,10 @@ title: A revolução (nada silenciosa) do podcast
 date: 2018-09-27 11:56:17
 thumbnailImagePosition: left
 thumbnailImage: img/post-podcast.png
+categories:
+- Miscelânia
+tags:
+- Tendências
 ---
 
 Entenda de que forma o podcast tem crescido cada vez mais no Brasil e o formato tem se tornado um veículo importante para divulgação de produtos e serviços.

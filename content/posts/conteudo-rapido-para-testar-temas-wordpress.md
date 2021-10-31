@@ -3,6 +3,12 @@ title: Conteúdo rápido para testar temas WordPress
 date: 2018-05-23 04:01:20
 thumbnailImagePosition: left
 thumbnailImage: img/conteudo-tema-wordpress.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
+- Ferramentas
 ---
 Conheça uma ferramenta que permite gerar conteúdo automático para fazer uma avaliação de temas WordPress sem muito esforço e complicação. Basta instalar um plugin e fazer as configurações básicas.
 

@@ -3,6 +3,13 @@ title: Page Builder no WordPress - Aulas 1, 2 e 3
 date: 2018-07-24T06:42:48.000Z
 thumbnailImagePosition: left
 thumbnailImage: img/page-builder-wordpress.png
+categories:
+- WordPress
+tags:
+- Curso Elementor
+- Dicas WP
+- Elementor
+- Plugins
 ---
 
 Comece a aprender como usar o Elementos, um dos plugins mais importantes de Page Builder da plataforma WordPress com 3 vídeos aulas e uma abordagem bem mão-na-massa.

@@ -3,6 +3,11 @@ title: Eventos no WordPress
 date: 2018-08-07T10:10:20.000Z
 thumbnailImagePosition: left
 thumbnailImage: img/post-eventos.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 
 Aprenda a usar um plugin para configurar sem muita complicação uma agenda eventos como webinários e treinamentos para serem exibidos no seu site em WordPress.

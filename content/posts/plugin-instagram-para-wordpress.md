@@ -3,6 +3,11 @@ title: Plugin Instagram para WordPress
 date: 2018-05-15 02:13:05
 thumbnailImagePosition: left
 thumbnailImage: img/plugin-instagram.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 
 Saiba como é possível incluir as imagens do seu Instagram no site em WordPress usando um plugin específico e configurações básicas, sem complicação nem muito trabalho.

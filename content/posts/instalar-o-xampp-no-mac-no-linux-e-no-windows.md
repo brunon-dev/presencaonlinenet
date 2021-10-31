@@ -3,6 +3,12 @@ title: Instalar o Xampp no Mac, no Linux e no Windows
 date: 2018-06-10 08:29:00
 thumbnailImagePosition: left
 thumbnailImage: img/xampp-mac-linux-windows.png
+categories:
+- Miscelânia
+tags:
+- Backend
+- Dicas WP
+- Ferramentas
 ---
 
 Veja uma forma simples de ter o Apache, o PHP e o MySQL instalados e executando rapidamente no seu Mac, Linux ou Windows. Assim, você terá toda infraestrutura necessária para rodar o WordPress localmente.

@@ -3,6 +3,10 @@ title: O hype do Nubank e a experiência do cliente
 date: 2018-09-17 10:38:57
 thumbnailImagePosition: left
 thumbnailImage: img/nubank.jpeg
+categories:
+- Miscelânia
+tags:
+- Tendências
 ---
 
 O Nubank tem sido um case de sucesso no uso da tecnologia para melhorar a experiência do cliente, diferenciando seu produto principal dos seus concorrentes.

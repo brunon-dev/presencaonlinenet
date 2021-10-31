@@ -3,6 +3,11 @@ title: Banner de produtos no WordPress
 date: 2018-09-16 02:48:00
 thumbnailImagePosition: left
 thumbnailImage: img/post-blog-base.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 
 Que tal incluir um corrossel de imagens que pode ser incluído na barra lateral do seu site, para funcionar como um banner de produtos ou serviços caso você seja produtor ou afiliado digital? Dê uma olhada neste plugin do WordPress.

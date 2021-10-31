@@ -3,11 +3,82 @@ languageCode = 'en-us'
 title = 'Presença Online .NET'
 theme = "hugo-tranquilpeak-theme"
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
+description = "Presença Online .NET - WordPress e Marketing Digital"
 thumbnailImage = true
+clearReading = true
+sidebarBehavior = 1
+coverImage = "img/cover.png"
+favicon = "img/logo.png"
 
 [markup]
   [markup.tableOfContents]
     endLevel = 3
     ordered = false
     startLevel = 1
+
+[author]
+  name = "Presença Online .NET"
+  bio = "Este é um projeto cujo objetivo é divulgar conteúdo relacionado com WordPress, Marketing Digital, geração de conteúdo e e-Commerce. Além deste blog temos um [Canal no YouTube](https://www.youtube.com/BrunoNBN/) com os vídeos relacionados."
+  job = "WordPress e Marketing Digital"
+  location = "Brasil"
+  # Your profile picture
+  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+  picture = "img/logo.png"
+
+# ------------
+# Sidebar menu
+# ------------
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 3
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
+  url = "/tags"
+[[menu.main]]
+  weight = 4
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/#about"
+
+[[menu.links]]
+  weight = 1
+  identifier = "youtube"
+  name = "YouTube"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-youtube\" aria-hidden=\"true\"></i>"
+  url = "https://www.youtube.com/BrunoNBN/"
+[[menu.links]]
+  weight = 2
+  identifier = "linkedin"
+  name = "LinkedIn"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-linkedin\" aria-hidden=\"true\"></i>"
+  url = "https://www.linkedin.com/in/brunonbn/"
+[[menu.links]]
+  weight = 3
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter\" aria-hidden=\"true\"></i>"
+  url = "https://twitter.com/brunon_bn"
+[[menu.links]]
+  weight = 4
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
+  url = "https://github.com/brunonbn"

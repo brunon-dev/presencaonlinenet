@@ -3,6 +3,11 @@ title: Mini curso MailChimp - Aula 1 - Criação de Conta
 date: 2018-09-20 03:06:17
 thumbnailImagePosition: left
 thumbnailImage: img/mini-curso-mailchimp.png
+categories:
+- Marketing Digital
+tags:
+- Curso MailChimp
+- E-mail Marketing
 ---
 
 Você sabe criar uma conta no MailChimp, a mais conhecida e usada plataforma de mail marketing? Nesta primeira aula você vai assistir a primeira aula de um curso bem prático e vai poder ver como sua utilização é fácil.

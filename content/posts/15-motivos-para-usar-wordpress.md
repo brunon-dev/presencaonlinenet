@@ -3,6 +3,10 @@ title: 15 motivos para usar WordPress
 date: 2018-05-31 10:13:54
 thumbnailImagePosition: left
 thumbnailImage: img/15-razoes-usar-wordpress.png
+categories:
+- WordPress
+tags:
+- Dicas WP
 ---
 
 Na comemoração do 15º aniversário de lançamento do WordPress, apresentamos os motivos por que a plataforma ainda é uma das mais usadas para criação de sites e lojas virtuais.

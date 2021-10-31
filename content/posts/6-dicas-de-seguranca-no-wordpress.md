@@ -3,6 +3,11 @@ title: 6 dicas de segurança no WordPress
 date: 2017-08-12 02:41:00
 thumbnailImagePosition: left
 thumbnailImage: img/post_security.png
+categories:
+- WordPress
+tags:
+- Dicas WP
+- Plugins
 ---
 Existe uma grande preocupação com a segurança no WordPress. Um dos argumentos de quem se coloca contra o uso da plataforma é o elevado número de vulnerabilidades divulgadas e os contínuos casos de invasão a sites construídos usando o CMS.
 

@@ -3,6 +3,10 @@ title: Escolhendo um domínio de site para meu negócio
 date: 2018-05-11 01:20:58
 thumbnailImagePosition: left
 thumbnailImage: img/dominio-site.png
+categories:
+- Miscelânia
+tags:
+- Ferramentas
 ---
 
 Neste post vamos apresentar algumas ferramentas que podem te ajudar não apenas na escolha de domínio do seu site, quanto na escolha par redes sociais também, avaliando nomes que estejam disponíveis.

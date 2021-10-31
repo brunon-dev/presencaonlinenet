@@ -3,6 +3,10 @@ title: Fome de Poder – 10 lições de empreendedorismo no filme
 date: 2018-08-01T06:54:32.000Z
 thumbnailImagePosition: left
 thumbnailImage: img/10-licoes-fome-poder.png
+categories:
+- Miscelânia
+tags:
+- Empreendedorismo
 ---
 
 O filme Fome de Poder conta a história da construção do McDonald’s, além de mostrar o relacionamento entre Ray Kroc e os irmãos Richard e Maurice McDonald apresentando a implantação do modelo de franquia e o crescimento da empresa.
