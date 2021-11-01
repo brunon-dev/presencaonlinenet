@@ -1,8 +1,11 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://presencaonline.net/'
 languageCode = "pt-br"
 defaultContentLanguage = "pt-br"
 title = 'Presença Online .NET'
 theme = "hugo-tranquilpeak-theme"
+googleAnalytics = "UA-173563152-1"
+[params.googleAnalytics]
+  async = true
 
 [taxonomies]
   tag = "tags"
@@ -24,7 +27,7 @@ favicon = "img/logo.png"
 
 [author]
   name = "Presença Online .NET"
-  bio = "Este é um projeto cujo objetivo é divulgar conteúdo relacionado com WordPress, Marketing Digital, geração de conteúdo e e-Commerce. Além deste blog temos um [Canal no YouTube](https://www.youtube.com/BrunoNBN/) com os vídeos relacionados."
+  bio = "Este é um projeto de Bruno Nogueira, cujo objetivo é divulgar conteúdo relacionado com WordPress, Marketing Digital, geração de conteúdo e e-Commerce."
   job = "WordPress e Marketing Digital"
   location = "Brasil"
   # Your profile picture
