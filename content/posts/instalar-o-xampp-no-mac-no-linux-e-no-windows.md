@@ -1,6 +1,6 @@
 ---
 title: Instalar o Xampp no Mac, no Linux e no Windows
-date: 2018-06-10 08:29:00
+date: 2018-06-10
 thumbnailImagePosition: left
 thumbnailImage: img/xampp-mac-linux-windows.png
 categories:

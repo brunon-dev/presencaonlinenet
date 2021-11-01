@@ -1,6 +1,6 @@
 ---
 title: O hype do Nubank e a experiência do cliente
-date: 2018-09-17 10:38:57
+date: 2018-09-17
 thumbnailImagePosition: left
 thumbnailImage: img/nubank.jpeg
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Escolhendo um domínio de site para meu negócio
-date: 2018-05-11 01:20:58
+date: 2018-05-11
 thumbnailImagePosition: left
 thumbnailImage: img/dominio-site.png
 categories:

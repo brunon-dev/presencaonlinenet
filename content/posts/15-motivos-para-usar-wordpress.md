@@ -1,6 +1,6 @@
 ---
 title: 15 motivos para usar WordPress
-date: 2018-05-31 10:13:54
+date: 2018-05-31
 thumbnailImagePosition: left
 thumbnailImage: img/15-razoes-usar-wordpress.png
 categories:

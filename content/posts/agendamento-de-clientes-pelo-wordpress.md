@@ -1,6 +1,6 @@
 ---
 title: Agendamento de clientes pelo WordPress
-date: 2018-05-06 05:41:49
+date: 2018-05-06
 thumbnailImagePosition: left
 thumbnailImage: img/agendamento.png
 categories:

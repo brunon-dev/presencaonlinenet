@@ -1,6 +1,6 @@
 ---
 title: Conteúdo rápido para testar temas WordPress
-date: 2018-05-23 04:01:20
+date: 2018-05-23
 thumbnailImagePosition: left
 thumbnailImage: img/conteudo-tema-wordpress.png
 categories:

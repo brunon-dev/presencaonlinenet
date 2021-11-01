@@ -1,6 +1,6 @@
 ---
 title: WhatsApp no WordPress
-date: 2018-07-23 05:42:27
+date: 2018-07-23
 thumbnailImagePosition: left
 thumbnailImage: img/whatsapp-no-wordpress.png
 categories:

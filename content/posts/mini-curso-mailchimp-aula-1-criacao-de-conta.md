@@ -1,6 +1,6 @@
 ---
 title: Mini curso MailChimp - Aula 1 - Criação de Conta
-date: 2018-09-20 03:06:17
+date: 2018-09-20
 thumbnailImagePosition: left
 thumbnailImage: img/mini-curso-mailchimp.png
 categories:

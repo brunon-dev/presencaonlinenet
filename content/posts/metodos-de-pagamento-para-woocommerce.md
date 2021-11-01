@@ -1,6 +1,6 @@
 ---
 title: Métodos de Pagamento para WooCommerce
-date: 2018-10-27 00:00:00
+date: 2018-10-27
 thumbnailImagePosition: left
 thumbnailImage: img/pagamento-WooCommerce.png
 categories:

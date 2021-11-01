@@ -1,6 +1,6 @@
 ---
 title: CSS para customizar WordPress
-date: 2018-10-28 00:00:00
+date: 2018-10-28
 thumbnailImagePosition: left
 thumbnailImage: img/css_tema_wp.png
 categories:

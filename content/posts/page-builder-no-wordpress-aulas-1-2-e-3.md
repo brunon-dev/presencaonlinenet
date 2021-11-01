@@ -1,6 +1,6 @@
 ---
 title: Page Builder no WordPress - Aulas 1, 2 e 3
-date: 2018-07-24T06:42:48.000Z
+date: 2018-07-24
 thumbnailImagePosition: left
 thumbnailImage: img/page-builder-wordpress.png
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 6 dicas de segurança no WordPress
-date: 2017-08-12 02:41:00
+date: 2017-08-12
 thumbnailImagePosition: left
 thumbnailImage: img/post_security.png
 categories:

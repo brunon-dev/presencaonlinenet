@@ -1,5 +1,6 @@
 baseURL = 'http://localhost:1313/'
-languageCode = 'en-us'
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 title = 'Presença Online .NET'
 theme = "hugo-tranquilpeak-theme"
 

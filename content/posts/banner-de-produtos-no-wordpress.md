@@ -1,6 +1,6 @@
 ---
 title: Banner de produtos no WordPress
-date: 2018-09-16 02:48:00
+date: 2018-09-16
 thumbnailImagePosition: left
 thumbnailImage: img/post-blog-base.png
 categories:

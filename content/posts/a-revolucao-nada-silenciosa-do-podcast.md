@@ -1,6 +1,6 @@
 ---
 title: A revolução (nada silenciosa) do podcast
-date: 2018-09-27 11:56:17
+date: 2018-09-27
 thumbnailImagePosition: left
 thumbnailImage: img/post-podcast.png
 categories:

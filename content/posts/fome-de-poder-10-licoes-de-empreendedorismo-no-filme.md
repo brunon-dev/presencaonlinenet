@@ -1,6 +1,6 @@
 ---
 title: Fome de Poder – 10 lições de empreendedorismo no filme
-date: 2018-08-01T06:54:32.000Z
+date: 2018-08-01
 thumbnailImagePosition: left
 thumbnailImage: img/10-licoes-fome-poder.png
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Envio de e-mail no WordPress
-date: 2017-10-13T05:14:00.000Z
+date: 2017-10-13
 thumbnailImagePosition: left
 thumbnailImage: img/post_mail.png
 categories:

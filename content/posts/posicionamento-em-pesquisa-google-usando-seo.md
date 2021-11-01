@@ -1,6 +1,6 @@
 ---
 title: Posicionamento em pesquisa Google usando SEO
-date: 2018-08-24T01:53:48.000Z
+date: 2018-08-24
 thumbnailImagePosition: left
 thumbnailImage: img/posicionamento-em-pesquisa-google.png
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Mini curso MailChimp - Aula 2 - Listas e Campanhas
-date: 2018-09-30 03:06:17
+date: 2018-09-30
 thumbnailImagePosition: left
 thumbnailImage: img/mini-curso-mailchimp.png
 categories:

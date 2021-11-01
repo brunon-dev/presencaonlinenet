@@ -1,6 +1,6 @@
 ---
 title: Plugin Instagram para WordPress
-date: 2018-05-15 02:13:05
+date: 2018-05-15
 thumbnailImagePosition: left
 thumbnailImage: img/plugin-instagram.png
 categories:

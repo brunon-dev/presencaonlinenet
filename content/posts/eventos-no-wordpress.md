@@ -1,6 +1,6 @@
 ---
 title: Eventos no WordPress
-date: 2018-08-07T10:10:20.000Z
+date: 2018-08-07
 thumbnailImagePosition: left
 thumbnailImage: img/post-eventos.png
 categories:

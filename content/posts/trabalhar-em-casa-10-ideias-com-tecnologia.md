@@ -1,6 +1,6 @@
 ---
 title: "Trabalhar em casa: 10 idéias com tecnologia"
-date: 2018-08-08 12:11:41
+date: 2018-08-08
 thumbnailImagePosition: left
 thumbnailImage: img/trabalhar-em-casa-10-ideias.png
 categories:
